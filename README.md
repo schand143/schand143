@@ -78,9 +78,9 @@
 ### Top Repositories
 
 
-<a href="https://github.com/schand143/developer-portfolio">
+<a href="https://github.com/schand143/new-portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=schand143&repo=developer-portfolio&theme=algolia" />
 </a>
-<a href="https://github.com/schand143/Express-Postgres-blog">
+<a href="https://github.com/schand143/infinite-recursive-shape">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=schand143&repo=Express-Postgres-blog&theme=algolia" />
 </a>
